@@ -1,1 +1,2 @@
-# odin-recipies
+# odin-recipes
+using HTML to create food recipes
